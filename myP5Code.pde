@@ -1,3 +1,4 @@
+
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
     size(400, 400); 
@@ -11,10 +12,36 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
-
-  
-
+ fill(48,180,72); 
+ellipse(61,194,100,100);
+fill(48,180,72);
+ellipse(105,256,100,100);
+fill(48,180,72);
+ellipse(135,164,100,100);
+fill(48,180,72);
+ellipse(184,232,100,100);
+fill(48,180,72);
+ellipse(164,300,100,100);
+fill(48,180,72);
+ellipse(233,256,100,100);
+fill(48,180,72);
+ellipse(220,164,100,100);
+fill(48,180,72);
+ellipse(289,197,100,100);
+fill(48,180,72);
+ellipse(277,112,100,100);
+fill(48,180,72);
+ellipse(305,261,100,100);
+fill(48,180,72);
+ellipse(346,151,100,100);
+fill(48,180,72);
+ellipse(344,222,100,100);
+fill(165, 42, 42)
+triangle(329,100,334,64,400,36);
+fill (165, 42, 42)
+triangle(333,100,400,90,400,36);
+fill (165, 42, 42)
+line(333,100,349,12);
 }
 
 //🟡Extra FUN Features Ms. Hall Added
