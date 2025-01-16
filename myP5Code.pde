@@ -12,6 +12,8 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
+ //the actual grapes
+ stroke(61,194,100)
  fill(48,180,72); 
 ellipse(61,194,100,100);
 fill(48,180,72);
@@ -36,11 +38,17 @@ fill(48,180,72);
 ellipse(346,151,100,100);
 fill(48,180,72);
 ellipse(344,222,100,100);
-fill(165, 42, 42)
+fill(165, 42, 42);
+
+//the leaves of the grapes
+stroke(61,194,200)
 triangle(329,100,334,64,400,36);
-fill (165, 42, 42)
+fill (165, 42, 42);
 triangle(333,100,400,90,400,36);
-fill (165, 42, 42)
+
+//the grape vine thingy
+stroke(61,194,500)
+fill (165, 42, 42);
 line(333,100,349,12);
 }
 
